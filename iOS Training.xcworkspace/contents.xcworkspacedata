@@ -2,6 +2,129 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:../iOS/xib-training/xib-training.xcodeproj">
+      location = "group:auto-layout-advanced/auto-layout-advanced.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:auto-layout-challenge/auto-layout-challenge.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:auto-layout-constraints/auto-layout-constraints.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:booya-exercise/booya-exercise.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BooYaLoop.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Calculator/Calculator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CardGame/CardGame.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:custom-view/custom-view.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:dictionaries.playground">
+   </FileRef>
+   <FileRef
+      location = "group:enums/enums.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Extension.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Favorite Movies/Favorite Movies.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:favorite-place/favorite-place.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:multiples-game/multiples-game.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:my-little-monster/my-little-monster.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MyHood/MyHood.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NSUserDefaults Training/NSUserDefaults Training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:old-school-mac/old-school-mac.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:oop-exercise/oop-exercise.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Recipes/Recipes.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:retro-calculator/retro-calculator.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:sizeclass-training/sizeclass-training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:stack-view-example/stack-view-example.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:stack-view-exercise/stack-view-exercise.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SuperCool/SuperCool.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:tab-training/tab-training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TableView Training/TableView Training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:tapper-extreme/tapper-extreme.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:training-get-set/training-get-set.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:training-polymorphism.playground">
+   </FileRef>
+   <FileRef
+      location = "group:training-optionals.playground">
+   </FileRef>
+   <FileRef
+      location = "group:training-inheretance.playground">
+   </FileRef>
+   <FileRef
+      location = "group:training-rpgoop/training-rpgoop.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:training-segues/training-segues.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UINavigation Controller Training/UINavigation Controller Training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIScrollView FitOnScreen Training/UIScrollView FitOnScreen Training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UIScrollView Training/UIScrollView Training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:UITableViewController Training/UITableViewController Training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Variables.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Web Request Training/Web Request Training.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:xib-exercise/xib-exercise.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:xib-training/xib-training.xcodeproj">
    </FileRef>
 </Workspace>
