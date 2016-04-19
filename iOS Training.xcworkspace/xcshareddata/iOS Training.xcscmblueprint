@@ -1,9 +1,11 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D5EAFF9D312ED9AA21EE9249F6759AE6AC19D6E0",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "EB4C90ACACDC71A9CC8E1C38DE2B9D40F8F320E4" : 0,
+    "F2D29335D77E752C006A8C71E874BB9CD6864A24" : 0,
+    "8FE68023A4342A258B29669A9C57490BF32DA6C8" : 0,
     "573FE738757BB9AAB37002CCCD2A2D8CFCFACD58" : 0,
     "EEF9A0F861D076654BEC635C87C9C3E868D49BCA" : 0,
     "11CF774E4C464149648CB1023642156CED029B94" : 0,
@@ -14,14 +16,15 @@
     "D9EBE8B67B3EBA554173154B92FD89607944E06A" : 0,
     "058E513072125D8110DC30E6FA2BF0F094659A48" : 0,
     "775BD262D2EDC6EF18ECDA25B06AD961AC2638B0" : 0,
-    "2538035CE321717A553B64E2AB62620D2FED0809" : 0,
-    "F2D29335D77E752C006A8C71E874BB9CD6864A24" : 0,
+    "D5EAFF9D312ED9AA21EE9249F6759AE6AC19D6E0" : 0,
+    "EB4C90ACACDC71A9CC8E1C38DE2B9D40F8F320E4" : 0,
     "04C457091245B866260123AEDF220035C2EC33C1" : 0,
-    "8FE68023A4342A258B29669A9C57490BF32DA6C8" : 0
+    "2538035CE321717A553B64E2AB62620D2FED0809" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E2A1A91A-9299-4AD5-8395-DBF316D34BCC",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "EB4C90ACACDC71A9CC8E1C38DE2B9D40F8F320E4" : "iOS%20Training\/xib-training\/",
+    "F2D29335D77E752C006A8C71E874BB9CD6864A24" : "iOS%20Training\/retro-calculator\/",
+    "8FE68023A4342A258B29669A9C57490BF32DA6C8" : "iOS%20Training\/UITableViewController%20Training\/",
     "573FE738757BB9AAB37002CCCD2A2D8CFCFACD58" : "iOS%20Training\/sizeclass-training\/",
     "EEF9A0F861D076654BEC635C87C9C3E868D49BCA" : "iOS%20Training\/oop-exercise\/",
     "11CF774E4C464149648CB1023642156CED029B94" : "iOS%20Training\/MyHood\/",
@@ -32,10 +35,10 @@
     "D9EBE8B67B3EBA554173154B92FD89607944E06A" : "iOS%20Training\/Recipes\/",
     "058E513072125D8110DC30E6FA2BF0F094659A48" : "iOS%20Training\/my-little-monster\/",
     "775BD262D2EDC6EF18ECDA25B06AD961AC2638B0" : "iOS%20Training\/custom-view\/",
-    "2538035CE321717A553B64E2AB62620D2FED0809" : "iOS%20Training\/favorite-place\/",
-    "F2D29335D77E752C006A8C71E874BB9CD6864A24" : "iOS%20Training\/retro-calculator\/",
+    "D5EAFF9D312ED9AA21EE9249F6759AE6AC19D6E0" : "iOS%20Training\/",
+    "EB4C90ACACDC71A9CC8E1C38DE2B9D40F8F320E4" : "iOS%20Training\/xib-training\/",
     "04C457091245B866260123AEDF220035C2EC33C1" : "iOS%20Training\/training-segues\/",
-    "8FE68023A4342A258B29669A9C57490BF32DA6C8" : "iOS%20Training\/UITableViewController%20Training\/"
+    "2538035CE321717A553B64E2AB62620D2FED0809" : "iOS%20Training\/favorite-place\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "iOS Training",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -95,6 +98,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rymcol\/training-tapper-extreme.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D2506976A42CC1F266D8B70A97C5CFBA6AE65327"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rymcol\/iOS-Training-Exercises.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D5EAFF9D312ED9AA21EE9249F6759AE6AC19D6E0"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:rymcol\/Recipes.git",
